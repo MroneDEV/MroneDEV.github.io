@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mronedev.github.io/cloudfax-hub/sitemap_index.xml
